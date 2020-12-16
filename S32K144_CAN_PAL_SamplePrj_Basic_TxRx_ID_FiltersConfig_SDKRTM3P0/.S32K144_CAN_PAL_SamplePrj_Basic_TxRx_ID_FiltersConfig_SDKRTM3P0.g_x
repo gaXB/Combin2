@@ -1,0 +1,86 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Includes</name>
+      <values lines_count="8">
+        <Line>"${ProjDirPath}/SDK/platform/drivers/src/clock/S32K1xx"</Line>
+        <Line>"${ProjDirPath}/SDK/rtos/osif/"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/pal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/common"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/S32K144/include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/S32K144/startup"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/drivers/inc"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_S32K144_100"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Documentation/S32K144_CAN_PAL_SamplePrj_Basic_TxRx_ID_FiltersConfig_SDKRTM3P0.txt" FileDate="2020-10-19, 20:54:43" FileAge="1603112083628" FileType="3072" />
+      <File Name="SDK/platform/drivers/inc/interrupt_manager.h" FileDate="2020-10-19, 20:30:08" FileAge="1603110608992" FileType="1048576" CompNumb="4" />
+      <File Name="SDK/platform/devices/device_registers.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609268" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/devices/status.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609235" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/src/edma/edma_driver.c" FileDate="2020-10-19, 20:54:42" FileAge="1603112082755" FileType="1048576" CompNumb="5" />
+      <File Name="Generated_Code/clockMan1.h" FileDate="2020-10-19, 20:54:43" FileAge="1603112083422" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/pcc_hw_access.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609066" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/rtos/osif/osif_baremetal.c" FileDate="2020-10-19, 20:54:42" FileAge="1603112082930" FileType="1048576" CompNumb="6" />
+      <File Name="SDK/platform/drivers/inc/clock.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609153" FileType="1048576" CompNumb="3" />
+      <File Name="Generated_Code/clockMan1.c" FileDate="2020-10-19, 20:54:43" FileAge="1603112083448" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_irq.h" FileDate="2020-10-19, 20:54:43" FileAge="1603112083184" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609321" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/devices/callbacks.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609281" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/devices/S32K144/include/S32K144.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609457" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_irq.c" FileDate="2020-10-19, 20:54:43" FileAge="1603112083197" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/smc_hw_access.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609138" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609052" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2020-10-19, 20:30:09" FileAge="1603110609334" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/src/interrupt/interrupt_manager.c" FileDate="2020-10-19, 20:30:08" FileAge="1603110608963" FileType="1048576" CompNumb="4" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.c" FileDate="2020-10-19, 20:30:09" FileAge="1603110609036" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/sim_hw_access.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609126" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/drivers/inc/pins_driver.h" FileDate="2020-10-19, 20:30:08" FileAge="1603110608902" FileType="1048576" CompNumb="2" />
+      <File Name="SDK/platform/drivers/inc/flexcan_driver.h" FileDate="2020-10-19, 20:54:43" FileAge="1603112083212" FileType="1048576" CompNumb="1" />
+      <File Name="Generated_Code/dmaController1.h" FileDate="2020-10-19, 20:54:43" FileAge="1603112083304" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/pmc_hw_access.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609079" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/pins/pins_driver.c" FileDate="2020-10-19, 20:30:08" FileAge="1603110608863" FileType="1048576" CompNumb="2" />
+      <File Name="SDK/platform/devices/devassert.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609224" FileType="1048576" CompNumb="1" />
+      <File Name="Generated_Code/dmaController1.c" FileDate="2020-10-19, 20:54:43" FileAge="1603112083286" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/pal/src/can/can_pal.c" FileDate="2020-10-19, 20:54:42" FileAge="1603112082984" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_hw_access.h" FileDate="2020-10-19, 20:54:43" FileAge="1603112083155" FileType="1048576" CompNumb="1" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2020-10-19, 20:54:43" FileAge="1603112083472" FileType="45637" CompNumb="1" />
+      <File Name="Sources/main.c" FileDate="2020-10-23, 08:07:18" FileAge="1603411638719" FileType="128" />
+      <File Name="SDK/platform/drivers/src/pins/pins_gpio_hw_access.h" FileDate="2020-10-19, 20:30:08" FileAge="1603110608874" FileType="1048576" CompNumb="2" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_hw_access.c" FileDate="2020-10-19, 20:54:43" FileAge="1603112083137" FileType="1048576" CompNumb="1" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2020-10-19, 20:30:09" FileAge="1603110609474" FileType="45637" CompNumb="1" />
+      <File Name="SDK/platform/pal/inc/can_pal.h" FileDate="2020-10-19, 20:54:43" FileAge="1603112083038" FileType="1048576" CompNumb="0" />
+      <File Name="Documentation/S32K144_CAN_PAL_SamplePrj_Basic_TxRx_ID_FiltersConfig_SDKRTM3P0_Settings.xml" FileDate="2020-10-19, 20:54:43" FileAge="1603112083574" FileType="3072" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2020-10-19, 20:54:43" FileAge="1603112083354" FileType="45637" CompNumb="2" />
+      <File Name="SDK/platform/drivers/src/pins/pins_port_hw_access.h" FileDate="2020-10-19, 20:30:08" FileAge="1603110608938" FileType="1048576" CompNumb="2" />
+      <File Name="SDK/platform/devices/S32K144/startup/system_S32K144.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609382" FileType="1048576" CompNumb="1" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2020-10-19, 20:54:43" FileAge="1603112083398" FileType="45637" CompNumb="2" />
+      <File Name="SDK/platform/drivers/src/pins/pins_port_hw_access.c" FileDate="2020-10-19, 20:30:08" FileAge="1603110608919" FileType="1048576" CompNumb="2" />
+      <File Name="Generated_Code/can_pal1.h" FileDate="2020-10-19, 21:55:45" FileAge="1603115745894" FileType="45637" CompNumb="7" />
+      <File Name="SDK/platform/devices/S32K144/startup/system_S32K144.c" FileDate="2020-10-19, 20:30:09" FileAge="1603110609410" FileType="1048576" CompNumb="1" />
+      <File Name="Generated_Code/can_pal_cfg.h" FileDate="2020-10-19, 20:54:43" FileAge="1603112083228" FileType="45637" CompNumb="1" />
+      <File Name="SDK/platform/drivers/inc/clock_manager.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609195" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/scg_hw_access.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609094" FileType="1048576" CompNumb="3" />
+      <File Name="Generated_Code/can_pal1.c" FileDate="2020-10-19, 21:55:45" FileAge="1603115745917" FileType="45637" CompNumb="7" />
+      <File Name="SDK/platform/drivers/inc/edma_driver.h" FileDate="2020-10-19, 20:54:42" FileAge="1603112082856" FileType="1048576" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_driver.c" FileDate="2020-10-19, 20:54:43" FileAge="1603112083170" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/rtos/osif/osif.h" FileDate="2020-10-19, 20:54:42" FileAge="1603112082913" FileType="1048576" CompNumb="6" />
+      <File Name="SDK/platform/drivers/src/edma/edma_irq.h" FileDate="2020-10-19, 20:54:42" FileAge="1603112082841" FileType="1048576" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/edma/edma_hw_access.h" FileDate="2020-10-19, 20:54:42" FileAge="1603112082829" FileType="1048576" CompNumb="5" />
+      <File Name="SDK/platform/devices/common/s32_core_cm4.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609309" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/src/edma/edma_irq.c" FileDate="2020-10-19, 20:54:42" FileAge="1603112082805" FileType="1048576" CompNumb="5" />
+      <File Name="SDK/platform/pal/inc/can_pal_mapping.h" FileDate="2020-10-19, 20:54:43" FileAge="1603112083010" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/devices/S32K144/include/S32K144_features.h" FileDate="2020-10-19, 20:30:09" FileAge="1603110609438" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/src/edma/edma_hw_access.c" FileDate="2020-10-19, 20:54:42" FileAge="1603112082784" FileType="1048576" CompNumb="5" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>7</CodeGenReference>
+</CodeGenerationInfo>
